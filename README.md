@@ -1,3 +1,22 @@
+# Unitree ROS 2 · SSRobotic Collection
+
+> **This collection has moved into [Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub).**
+> Browse the consolidated code: [collections/unitree/ros2](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/unitree/ros2) · [Search resources](https://ssrobotic.github.io/humanoid-robot-hub/)
+
+ROS 2 / DDS integration; G1 and H1 examples alongside quadrupeds.
+
+Curated and organized by **SSRobotic — Robotics Engineer & Open-source Curator**. Original source: [unitreerobotics](https://github.com/unitreerobotics/unitree_ros2). The original code, documentation and license notices retain their respective authorship.
+
+## What this collection provides
+
+ROS 2 / DDS integration; G1 and H1 examples alongside quadrupeds.
+
+The Hub contains a snapshot of this repository at `da42f91fdf07bb0ac4f9dc113478314fdf5d075f`. This repository is retained as an archived reference so previous links and history remain available. Updates to the curated collection belong in the Hub.
+
+---
+
+## Original documentation
+
 Unitree robot ROS2 support
 
 [TOC]
