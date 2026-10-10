@@ -1,6 +1,9 @@
 <p align="center"><img src="assets/ssrobotics-logo.jpg" alt="SSRobotics original logo" width="240"></p>
 
-# 📡 Unitree ROS 2 · SSRobotics
+<h1 align="center">📡 Unitree ROS 2</h1>
+<p align="center"><b>SSRobotics · Platform Code Collection</b></p>
+
+<p align="center"><a href="https://github.com/SSRobotic/unitree-ros2"><img src="https://img.shields.io/badge/Collection-Platform_code-f28c28?style=flat-square" alt="Platform code collection"></a> <a href="https://github.com/SSRobotic/unitree-ros2/blob/main/UPSTREAM_README.md"><img src="https://img.shields.io/badge/Source_credit-Preserved-555555?style=flat-square" alt="Original source credit preserved"></a></p>
 
 **Part of [Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** · [🔎 Search the ecosystem](https://ssrobotic.github.io/humanoid-robot-hub/) · [👤 Follow SSRobotic](https://github.com/SSRobotic)
 
@@ -20,7 +23,7 @@ This repository contains the existing Unitree ROS 2 source collection, together 
 
 ## 🔗 Connected directories
 
-[🦾 Models](https://github.com/SSRobotic/humanoid-models) · [🌐 Simulation](https://github.com/SSRobotic/humanoid-simulation) · [🔌 SDKs](https://github.com/SSRobotic/humanoid-hardware-sdks) · [📡 ROS](https://github.com/SSRobotic/humanoid-ros2) · [👁️ Vision](https://github.com/SSRobotic/humanoid-vision) · [🤏 Manipulation](https://github.com/SSRobotic/humanoid-manipulation)
+[🦾 Models](https://github.com/SSRobotic/humanoid-models) · [🌐 Simulation](https://github.com/SSRobotic/humanoid-simulation) · [🔌 SDKs](https://github.com/SSRobotic/humanoid-hardware-sdks) · [📡 ROS](https://github.com/SSRobotic/humanoid-ros2) · [👁️ Vision](https://github.com/SSRobotic/humanoid-vision) · [🤏 Manipulation](https://github.com/SSRobotic/humanoid-manipulation) · [🟢 Isaac Sim](https://github.com/SSRobotic/humanoid-isaac-sim) · [🧮 Algorithms](https://github.com/SSRobotic/humanoid-algorithms)
 
 [🏠 Main Hub](https://github.com/SSRobotic/humanoid-robot-hub) · [🗂️ All repositories](https://github.com/SSRobotic?tab=repositories) · [💡 Suggest a resource](https://github.com/SSRobotic/humanoid-robot-hub/issues/new/choose)
 
