@@ -20,7 +20,7 @@ This repository contains the existing Unitree ROS 2 source collection, together 
 
 ## 🔗 Connected directories
 
-[🦾 Models](https://github.com/SSRobotic/humanoid-models) · [🌐 Simulation](https://github.com/SSRobotic/humanoid-simulation) · [🔌 SDKs](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-hardware-sdks) · [📡 ROS](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-ros2) · [👁️ Vision](https://github.com/SSRobotic/humanoid-vision) · [🤏 Manipulation](https://github.com/SSRobotic/humanoid-manipulation)
+[🦾 Models](https://github.com/SSRobotic/humanoid-models) · [🌐 Simulation](https://github.com/SSRobotic/humanoid-simulation) · [🔌 SDKs](https://github.com/SSRobotic/humanoid-hardware-sdks) · [📡 ROS](https://github.com/SSRobotic/humanoid-ros2) · [👁️ Vision](https://github.com/SSRobotic/humanoid-vision) · [🤏 Manipulation](https://github.com/SSRobotic/humanoid-manipulation)
 
 [🏠 Main Hub](https://github.com/SSRobotic/humanoid-robot-hub) · [🗂️ All repositories](https://github.com/SSRobotic?tab=repositories) · [💡 Suggest a resource](https://github.com/SSRobotic/humanoid-robot-hub/issues/new/choose)
 
